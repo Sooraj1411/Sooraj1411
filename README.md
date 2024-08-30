@@ -9,6 +9,8 @@ I'm a data analyst passionate about turning data into actionable insights. I hav
   ### Projects
 - **[Pizza Sales Analysis](https://github.com/Sooraj1411/Pizza-Sales-Project)**
   - Analyzed pizza sales data using SQL queries and visualized the results in Power BI.
+- **[Blinkit Sales Analysis](https://github.com/Sooraj1411/BlinkIT-project)**
+  - Analyzed Blinkit sales data using visualizing power of Power BI.
 - **[Road Accident Data Analysis](https://github.com/Sooraj1411/Road-Accident-Dashboard)**
   - Conducted data analysis on road accident data using Excel and created a comprehensive dashboard.
 
