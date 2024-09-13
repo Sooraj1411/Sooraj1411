@@ -11,8 +11,8 @@ I'm a data analyst passionate about turning data into actionable insights. I hav
   - Analyzed pizza sales data using SQL queries and visualized the results in Power BI.
 - **[Blinkit Sales Analysis](https://github.com/Sooraj1411/BlinkIT-project)**
   - Analyzed Blinkit sales data using visualizing power of Power BI.
-- **[Road Accident Data Analysis](https://github.com/Sooraj1411/Road-Accident-Dashboard)**
-  - Conducted data analysis on road accident data using Excel and created a comprehensive dashboard.
+- **[Hospital Project](https://github.com/Sooraj1411/Hospitality-Project/blob/main/README.md)**
+  - Conducted data analysis on AtliQ Company Data using Power BI and created a comprehensive Report.
 
 ### Education
 - **Bachelor's in English** from School Of Open Learning, Delhi University
