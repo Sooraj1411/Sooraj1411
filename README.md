@@ -7,12 +7,12 @@ I'm a data analyst passionate about turning data into actionable insights. I hav
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
   ### Projects
-- **[Hospital Project](https://github.com/Sooraj1411/Hospitality-Project/blob/main/README.md)**
+- **[HOSPITALITY ANALYSIS](https://github.com/Sooraj1411/Hospitality-Project/blob/main/README.md)**
   - Conducted data analysis on AtliQ Company Data using Power BI and created a comprehensive Report.
 - **[ATLIQ HARDWARE BUSINESS INTELLIGENCE REPORT](https://github.com/Sooraj1411/AtliQ-Hardware-Business-Intelligence-Report)**
-  - Analyzed Blinkit sales data using visualizing power of Power BI.
-- **[Pizza Sales Analysis](https://github.com/Sooraj1411/Pizza-Sales-Project)**
-  - Analyzed pizza sales data using SQL queries and visualized the results in Power BI.
+  - Analyzed and delivered the concise Business Reports through Excel
+- **[EDA & DATA CLEANING](https://github.com/Sooraj1411/Data-Cleaning-EDA)**
+  - Cleaned and performed EDA on layoffs data around the globe of 3 years with SQL.
 
 ### Education
 - **Bachelor's in English** from School Of Open Learning, Delhi University
