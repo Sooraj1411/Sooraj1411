@@ -9,7 +9,7 @@ I'm a data analyst passionate about turning data into actionable insights. I hav
   ### Projects
 - **[Hospital Project](https://github.com/Sooraj1411/Hospitality-Project/blob/main/README.md)**
   - Conducted data analysis on AtliQ Company Data using Power BI and created a comprehensive Report.
-- **[Blinkit Sales Analysis](https://github.com/Sooraj1411/BlinkIT-project)**
+- **[ATLIQ HARDWARE BUSINESS INTELLIGENCE REPORT](https://github.com/Sooraj1411/AtliQ-Hardware-Business-Intelligence-Report)**
   - Analyzed Blinkit sales data using visualizing power of Power BI.
 - **[Pizza Sales Analysis](https://github.com/Sooraj1411/Pizza-Sales-Project)**
   - Analyzed pizza sales data using SQL queries and visualized the results in Power BI.
